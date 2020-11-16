@@ -17,6 +17,9 @@ This program describes an artificial neural network (ANN) developed with object-
 An ANN will consist out of the following three classes:
 - Neuron
 - FullyConnectedLayer
+- ConvolutionalLayer
+- MaxPoolingLayer
+- FlattenLayer
 - NeuralNetwork
 Each class represents on its own a distinct level of scale for a typical ANN.
 """
