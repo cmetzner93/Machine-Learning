@@ -3,7 +3,6 @@ COSC 525 - Deep Learning
 Project 2
 Contributors:
 Metzner, Christoph
-Nau, Anna-Maria
 Date: 02/10/2020
 """
 
